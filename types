@@ -1,0 +1,6 @@
+type("Hello World")
+= <class "str"> and its a string
+give me a output of the string
+
+type("60")
+= integer(int)

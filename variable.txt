@@ -1,0 +1,4 @@
+name = Tanjim 
+variable = value 
+variable that holds value 
+so name is variable and value is tanjim.
